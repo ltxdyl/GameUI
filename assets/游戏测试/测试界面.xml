@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <text id="n0_bky4" name="n0" xy="380,256" size="518,206" fontSize="48" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="测试界面"/>
+    <graph id="n1_bky4" name="n1" xy="224,119" size="100,100" type="eclipse" fillColor="#ff99cc00"/>
+  </displayList>
+</component>
