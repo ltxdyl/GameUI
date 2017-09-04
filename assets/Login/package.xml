@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="nmga775v" jpegQuality="80" compressPNG="true">
   <resources>
-    <component id="bky40" name="登陆界面.xml" path="/" exported="true"/>
+    <component id="bky40" name="WndLogin.xml" path="/" exported="true"/>
   </resources>
   <publish name="Login"/>
 </packageDescription>

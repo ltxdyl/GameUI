@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<component size="1280,720">
-  <displayList>
-    <graph id="n2_rfjs" name="background" xy="0,0" size="1280,720" type="rect" lineSize="0" fillColor="#ff666666"/>
-    <text id="n0_bky4" name="infos" xy="380,256" size="518,206" fontSize="48" align="center" vAlign="middle" autoSize="none" text="登陆界面"/>
-  </displayList>
-</component>

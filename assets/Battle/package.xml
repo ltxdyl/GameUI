@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="txr6nnlp" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="12kkk0" name="WndBattle.xml" path="/" exported="true"/>
+    <image id="12kkk3" name="battleDemo.png" path="/Images/"/>
+    <image id="12kkk4" name="setting.png" path="/Images/"/>
+    <component id="12kkk5" name="btnSetting.xml" path="/Componets/"/>
+    <image id="12kkk6" name="coin.png" path="/Images/"/>
+    <image id="12kkk7" name="enemy.png" path="/Images/"/>
+  </resources>
+  <publish name="Battle" genCode="true"/>
+</packageDescription>

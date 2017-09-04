@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" opaque="false">
+  <displayList>
+    <graph id="n0_bky4" name="TopMask" xy="0,0" size="720,100" type="rect" lineSize="0" fillColor="#80000000"/>
+    <graph id="n1_bky4" name="BottomMask" xy="0,1180" size="720,100" type="rect" lineSize="0" fillColor="#80000000"/>
+    <graph id="n2_bky4" name="LeftMask" xy="0,100" size="100,1080" type="rect" lineSize="0" fillColor="#80000000"/>
+    <graph id="n3_bky4" name="RightMask" xy="620,100" size="100,1080" type="rect" lineSize="0" fillColor="#80000000"/>
+    <loader id="n4_bky4" name="GuideIcon" xy="0,0" size="100,100"/>
+  </displayList>
+</component>
