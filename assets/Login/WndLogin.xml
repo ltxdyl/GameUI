@@ -3,5 +3,8 @@
   <displayList>
     <graph id="n2_rfjs" name="background" xy="0,0" size="720,1280" type="rect" lineSize="0" fillColor="#ff999999"/>
     <text id="n0_bky4" name="infos" xy="101,537" size="518,206" fontSize="48" align="center" vAlign="middle" autoSize="none" text="登陆界面"/>
+    <component id="n3_kmjs" name="btnLogin" src="kmjs1" xy="276,1083" size="168,62">
+      <Button title="登陆" titleFontSize="24"/>
+    </component>
   </displayList>
 </component>

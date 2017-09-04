@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" opaque="false">
+  <displayList>
+    <text id="n0_kmjs" name="n0" xy="209,429" size="301,83" fontSize="24" color="#00ff33" align="center" vAlign="middle" autoSize="none" text="这是一个HUD界面"/>
+  </displayList>
+</component>

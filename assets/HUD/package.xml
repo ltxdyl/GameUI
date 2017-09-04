@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="p07kb1nt" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="kmjs0" name="WndHUD.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="HUD"/>
+</packageDescription>
