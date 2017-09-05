@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280" opaque="false">
   <displayList>
-    <text id="n0_kmjs" name="n0" xy="209,429" size="301,83" fontSize="24" color="#00ff33" align="center" vAlign="middle" autoSize="none" text="这是一个HUD界面"/>
+    <image id="n1_htrj" name="background" src="htrj1" xy="0,0" size="720,1280"/>
+    <component id="n2_htrj" name="btnMenu" src="htrj2" xy="0,161" size="100,62">
+      <Button title="菜单" titleFontSize="24"/>
+    </component>
+    <component id="n3_htrj" name="btnTask" src="htrj3" xy="620,161" size="100,62">
+      <Button title="任务" titleFontSize="24"/>
+    </component>
+    <component id="n5_htrj" name="btnCity" src="htrj4" xy="0,1150" group="n10_htrj">
+      <Button title="主城" titleFontSize="35"/>
+    </component>
+    <component id="n6_htrj" name="btnBag" src="htrj4" xy="130,1150" group="n10_htrj">
+      <Button title="背包"/>
+    </component>
+    <component id="n7_htrj" name="btnBattle" src="htrj4" xy="260,1150" size="200,130" group="n10_htrj">
+      <Button title="战斗"/>
+    </component>
+    <component id="n8_htrj" name="btnRole" src="htrj4" xy="460,1150" group="n10_htrj">
+      <Button title="角色"/>
+    </component>
+    <component id="n9_htrj" name="btnPet" src="htrj4" xy="590,1150" group="n10_htrj">
+      <Button title="宠物"/>
+    </component>
+    <group id="n10_htrj" name="bottomBtns" xy="0,1150" size="720,130" advanced="true">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+    </group>
   </displayList>
+  <transition name="tShowButton">
+    <item time="0" type="XY" target="n2_htrj" tween="true" startValue="-100,161" endValue="0,161" duration="6" ease="Quint.In"/>
+    <item time="0" type="XY" target="n3_htrj" tween="true" startValue="720,161" endValue="620,161" duration="6" ease="Quint.In"/>
+    <item time="6" type="XY" target="n2_htrj" tween="true" startValue="0,161" ease="Back.Out"/>
+    <item time="6" type="XY" target="n3_htrj" tween="true" startValue="620,161" ease="Back.Out"/>
+  </transition>
 </component>
