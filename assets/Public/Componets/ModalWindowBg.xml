@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="438,500">
+  <displayList>
+    <image id="n1_li47" name="background" src="li472" xy="0,7"/>
+    <component id="n0_li47" name="btnClose" src="li471" xy="388,0"/>
+  </displayList>
+</component>

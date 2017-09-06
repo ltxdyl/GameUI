@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ocztyqwz" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="li470" name="WndMenu.xml" path="/" exported="true"/>
+    <component id="li471" name="BtnIconAtLeft.xml" path="/Componets/"/>
+  </resources>
+  <publish name="Menu"/>
+</packageDescription>

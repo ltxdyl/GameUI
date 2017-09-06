@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280">
+  <displayList>
+    <component id="n0_li47" name="modelBg" src="li470" pkg="ti8p7cqz" xy="141,390"/>
+    <component id="n2_li47" name="btnNotice" src="li471" xy="178,471">
+      <Button title="公 告"/>
+    </component>
+    <component id="n3_li47" name="btnMail" src="li471" xy="373,471">
+      <Button title="邮 箱"/>
+    </component>
+    <component id="n4_li47" name="btnRankList" src="li471" xy="178,573">
+      <Button title="排行榜"/>
+    </component>
+    <component id="n5_li47" name="btnSetting" src="li471" xy="274,678">
+      <Button title="设 置"/>
+    </component>
+    <component id="n6_li47" name="btnBlackList" src="li471" xy="373,573">
+      <Button title="黑名单"/>
+    </component>
+    <component id="n7_li47" name="btnLoginout" src="li471" xy="274,780">
+      <Button title="登出"/>
+    </component>
+  </displayList>
+</component>

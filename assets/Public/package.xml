@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="ti8p7cqz" jpegQuality="80" compressPNG="true">
-  <resources/>
+  <resources>
+    <component id="li470" name="ModalWindowBg.xml" path="/Componets/" exported="true"/>
+    <component id="li471" name="CloseButton.xml" path="/Componets/" exported="true"/>
+    <image id="li472" name="modalBg.png" path="/Images/"/>
+    <image id="li473" name="close.png" path="/Images/"/>
+  </resources>
   <publish name="Public"/>
 </packageDescription>
