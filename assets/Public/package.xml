@@ -3,8 +3,9 @@
   <resources>
     <component id="li470" name="ModalWindowBg.xml" path="/Componets/" exported="true"/>
     <component id="li471" name="CloseButton.xml" path="/Componets/" exported="true"/>
-    <image id="li472" name="modalBg.png" path="/Images/"/>
     <image id="li473" name="close.png" path="/Images/"/>
+    <image id="of7p4" name="Bg.png" path="/Images/" scale="9grid" scale9grid="6,18,12,36"/>
+    <image id="of7p5" name="titleBg.png" path="/Images/" scale="9grid" scale9grid="6,18,12,36"/>
   </resources>
   <publish name="Public"/>
 </packageDescription>

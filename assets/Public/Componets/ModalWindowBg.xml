@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="438,500">
+<component size="440,500">
   <displayList>
-    <image id="n1_li47" name="background" src="li472" xy="0,7"/>
-    <component id="n0_li47" name="btnClose" src="li471" xy="388,0"/>
+    <image id="n3_of7p" name="bg" src="of7p4" xy="0,0" size="440,500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_of7p" name="titleBg" src="of7p5" xy="0,0" size="440,45">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <component id="n0_li47" name="btnClose" src="li471" xy="390,0">
+      <relation target="" sidePair="top-top,right-right"/>
+    </component>
   </displayList>
 </component>

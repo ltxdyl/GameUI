@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="720,1280" opaque="false">
+<component size="720,1280" opaque="false" designImageLayer="1">
+  <controller name="cPanel" alias="显示面板控制器" pages="0,主城,1,背包,2,战斗,3,角色,4,宠物" selected="0"/>
   <displayList>
-    <image id="n1_htrj" name="background" src="htrj1" xy="0,0" size="720,1280"/>
+    <component id="n13_of7p" name="comCity" src="of7p0" pkg="rm4c4sgh" xy="0,0">
+      <gearDisplay controller="cPanel" pages="0"/>
+    </component>
+    <component id="n14_of7p" name="ComBag" src="of7p0" pkg="r4ywmsmo" xy="0,0">
+      <gearDisplay controller="cPanel" pages="1"/>
+    </component>
     <component id="n2_htrj" name="btnMenu" src="htrj2" xy="0,161" size="100,62">
       <Button title="菜单" titleFontSize="24"/>
     </component>
     <component id="n3_htrj" name="btnTask" src="htrj3" xy="620,161" size="100,62">
       <Button title="任务" titleFontSize="24"/>
     </component>
-    <component id="n5_htrj" name="btnCity" src="htrj4" xy="0,1150" group="n10_htrj">
-      <Button title="主城" titleFontSize="35"/>
+    <component id="n5_htrj" name="btnCity" src="htrj4" xy="0,1150" size="130,130" group="n10_htrj">
+      <Button title="主城" titleFontSize="35" controller="cPanel" page="0"/>
     </component>
-    <component id="n6_htrj" name="btnBag" src="htrj4" xy="130,1150" group="n10_htrj">
-      <Button title="背包"/>
+    <component id="n6_htrj" name="btnBag" src="htrj4" xy="130,1150" size="130,130" group="n10_htrj">
+      <Button title="背包" controller="cPanel" page="1"/>
     </component>
     <component id="n7_htrj" name="btnBattle" src="htrj4" xy="260,1150" size="200,130" group="n10_htrj">
-      <Button title="战斗"/>
+      <Button title="战斗" controller="cPanel" page="2"/>
     </component>
-    <component id="n8_htrj" name="btnRole" src="htrj4" xy="460,1150" group="n10_htrj">
-      <Button title="角色"/>
+    <component id="n8_htrj" name="btnRole" src="htrj4" xy="460,1150" size="130,130" group="n10_htrj">
+      <Button title="角色" controller="cPanel" page="3"/>
     </component>
-    <component id="n9_htrj" name="btnPet" src="htrj4" xy="590,1150" group="n10_htrj">
-      <Button title="宠物"/>
+    <component id="n9_htrj" name="btnPet" src="htrj4" xy="590,1150" size="130,130" group="n10_htrj">
+      <Button title="宠物" icon="ui://p07kb1ntof7p7" controller="cPanel" page="4"/>
     </component>
-    <group id="n10_htrj" name="bottomBtns" xy="0,1150" size="720,130" advanced="true">
+    <group id="n10_htrj" name="bottomBtns" xy="0,1150" size="720,130" advanced="true" collapsed="true">
       <relation target="" sidePair="width-width,bottom-bottom"/>
     </group>
   </displayList>
@@ -33,4 +39,5 @@
     <item time="6" type="XY" target="n2_htrj" tween="true" startValue="0,161" ease="Back.Out"/>
     <item time="6" type="XY" target="n3_htrj" tween="true" startValue="620,161" ease="Back.Out"/>
   </transition>
+  <transition name="tShowGirl"/>
 </component>

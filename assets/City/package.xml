@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="rm4c4sgh" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="of7p0" name="ComCity.xml" path="/" exported="true"/>
+    <image id="of7p1" name="background.png" path="/Images/"/>
+    <image id="of7p2" name="girl.png" path="/Images/"/>
+  </resources>
+  <publish name="City"/>
+</packageDescription>
