@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280">
   <displayList>
-    <component id="n0_li47" name="modelBg" src="li470" pkg="ti8p7cqz" xy="141,390"/>
+    <component id="n0_li47" name="modelBg" src="li470" pkg="ti8p7cqz" xy="141,390">
+      <Label title="菜单"/>
+    </component>
     <component id="n2_li47" name="btnNotice" src="li471" xy="178,471">
       <Button title="公 告"/>
     </component>

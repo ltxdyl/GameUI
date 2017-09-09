@@ -2,10 +2,18 @@
 <packageDescription id="ti8p7cqz" jpegQuality="80" compressPNG="true">
   <resources>
     <component id="li470" name="ModalWindowBg.xml" path="/Componets/" exported="true"/>
-    <component id="li471" name="CloseButton.xml" path="/Componets/" exported="true"/>
-    <image id="li473" name="close.png" path="/Images/"/>
     <image id="of7p4" name="Bg.png" path="/Images/" scale="9grid" scale9grid="6,18,12,36"/>
     <image id="of7p5" name="titleBg.png" path="/Images/" scale="9grid" scale9grid="6,18,12,36"/>
+    <image id="kv0s6" name="closeBtn0.png" path="/Images/"/>
+    <image id="kv0s7" name="closeBtn1.png" path="/Images/"/>
+    <component id="kv0s8" name="CloseButton.xml" path="/Componets/" exported="true"/>
+    <image id="bfgaa" name="ProgressBarBlue.png" path="/Images/"/>
+    <image id="bfgab" name="ProgressBarGreen.png" path="/Images/"/>
+    <image id="bfgac" name="ProgressBarBg.png" path="/Images/"/>
+    <component id="bfgad" name="HPProgress.xml" path="/Componets/" exported="true"/>
+    <component id="bfgae" name="MPProgress.xml" path="/Componets/" exported="true"/>
+    <component id="bfgaf" name="HPProgressReverse.xml" path="/Componets/" exported="true"/>
+    <component id="bfgag" name="MPProgressReverse.xml" path="/Componets/" exported="true"/>
   </resources>
   <publish name="Public"/>
 </packageDescription>

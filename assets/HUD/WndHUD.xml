@@ -5,8 +5,11 @@
     <component id="n13_of7p" name="comCity" src="of7p0" pkg="rm4c4sgh" xy="0,0">
       <gearDisplay controller="cPanel" pages="0"/>
     </component>
-    <component id="n14_of7p" name="ComBag" src="of7p0" pkg="r4ywmsmo" xy="0,0">
+    <component id="n14_of7p" name="comBag" src="of7p0" pkg="r4ywmsmo" xy="0,0">
       <gearDisplay controller="cPanel" pages="1"/>
+    </component>
+    <component id="n15_bfga" name="comBattle" src="12kkk0" pkg="txr6nnlp" xy="0,0">
+      <gearDisplay controller="cPanel" pages="2"/>
     </component>
     <component id="n2_htrj" name="btnMenu" src="htrj2" xy="0,161" size="100,62">
       <Button title="菜单" titleFontSize="24"/>

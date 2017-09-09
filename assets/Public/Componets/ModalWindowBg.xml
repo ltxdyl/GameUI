@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="440,500">
+<component size="440,500" extention="Label">
   <displayList>
     <image id="n3_of7p" name="bg" src="of7p4" xy="0,0" size="440,500">
       <relation target="" sidePair="width-width,height-height"/>
@@ -7,8 +7,7 @@
     <image id="n2_of7p" name="titleBg" src="of7p5" xy="0,0" size="440,45">
       <relation target="" sidePair="width-width,top-top"/>
     </image>
-    <component id="n0_li47" name="btnClose" src="li471" xy="390,0">
-      <relation target="" sidePair="top-top,right-right"/>
-    </component>
+    <text id="n5_ltyq" name="title" xy="141,3" size="158,35" fontSize="24" align="center" vAlign="middle" autoSize="none" bold="true" text="标题"/>
+    <component id="n4_kv0s" name="btnClose" src="kv0s8" xy="396,0"/>
   </displayList>
 </component>

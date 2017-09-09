@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<component size="720,1280" designImage="ui://txr6nnlp12kkk3">
-  <displayList>
-    <component id="n1_12kkk" name="btnSetting" src="12kkk5" xy="13,8"/>
-    <image id="n2_12kkk" name="imgCoin" src="12kkk6" xy="292,146" size="52,52"/>
-    <image id="n3_12kkk" name="imgEnemy" src="12kkk7" xy="630,26" size="54,43"/>
-  </displayList>
-</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280">
+  <displayList>
+    <component id="n4_bfga" name="leftHP" src="bfgad" pkg="ti8p7cqz" xy="54,536">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n5_bfga" name="leftMP" src="bfgae" pkg="ti8p7cqz" xy="54,563">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n6_bfga" name="rightHP" src="bfgaf" pkg="ti8p7cqz" xy="412,536">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n7_bfga" name="rightMP" src="bfgag" pkg="ti8p7cqz" xy="412,563">
+      <ProgressBar value="50" max="100"/>
+    </component>
+  </displayList>
+</component>

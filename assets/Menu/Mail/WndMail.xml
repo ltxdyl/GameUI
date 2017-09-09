@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280">
+  <displayList>
+    <component id="n0_ltyq" name="background" src="li470" pkg="ti8p7cqz" xy="140,215">
+      <Label title="邮件"/>
+    </component>
+    <list id="n1_ltyq" name="listMail" xy="170,266" size="380,375" overflow="scroll"/>
+  </displayList>
+</component>

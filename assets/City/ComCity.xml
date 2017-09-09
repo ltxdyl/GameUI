@@ -5,10 +5,15 @@
     <image id="n1_of7p" name="imgGirl" src="of7p2" xy="-148,329">
       <relation target="" sidePair="bottom-bottom"/>
     </image>
+    <image id="n3_kv0s" name="whiteBg" src="kv0s4" xy="290,640" size="420,330" group="n4_kv0s"/>
+    <group id="n4_kv0s" name="gFuncButtons" xy="290,640" size="420,330" advanced="true" collapsed="true"/>
   </displayList>
-  <relation target="" sidePair="width-width,height-height"/>
   <transition name="tShowGirl">
     <item time="0" type="Alpha" target="n1_of7p" tween="true" startValue="0" endValue="1" duration="12"/>
     <item time="12" type="Alpha" target="n1_of7p" tween="true" startValue="1"/>
+  </transition>
+  <transition name="tShowFuncButtons">
+    <item time="0" type="XY" target="n4_kv0s" tween="true" startValue="-430,640" endValue="290,640" duration="12"/>
+    <item time="12" type="XY" target="n4_kv0s" tween="true" startValue="290,640"/>
   </transition>
 </component>

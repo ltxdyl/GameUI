@@ -3,6 +3,7 @@
   <resources>
     <component id="li470" name="WndMenu.xml" path="/" exported="true"/>
     <component id="li471" name="BtnIconAtLeft.xml" path="/Componets/"/>
+    <component id="ltyq2" name="WndMail.xml" path="/Mail/" exported="true"/>
   </resources>
   <publish name="Menu"/>
 </packageDescription>

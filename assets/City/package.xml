@@ -4,6 +4,8 @@
     <component id="of7p0" name="ComCity.xml" path="/" exported="true"/>
     <image id="of7p1" name="background.png" path="/Images/"/>
     <image id="of7p2" name="girl.png" path="/Images/"/>
+    <image id="kv0s3" name="grayBg.png" path="/Images/" scale="9grid" scale9grid="8,8,16,16"/>
+    <image id="kv0s4" name="whiteBg.png" path="/Images/" scale="9grid" scale9grid="8,8,16,16"/>
   </resources>
   <publish name="City"/>
 </packageDescription>
