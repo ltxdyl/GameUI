@@ -2,9 +2,9 @@
 <packageDescription id="p07kb1nt" jpegQuality="80" compressPNG="true">
   <resources>
     <component id="kmjs0" name="WndHUD.xml" path="/" exported="true"/>
-    <component id="htrj2" name="BtnMenu.xml" path="/Componets/"/>
-    <component id="htrj3" name="BtnTask.xml" path="/Componets/"/>
-    <component id="htrj4" name="BtnFunc.xml" path="/Componets/"/>
+    <component id="htrj2" name="BtnMenu.xml" path="/Components/"/>
+    <component id="htrj3" name="BtnTask.xml" path="/Components/"/>
+    <component id="htrj4" name="BtnFunc.xml" path="/Components/"/>
     <image id="of7p7" name="PetIcon.png" path="/Images/"/>
   </resources>
   <publish name="HUD"/>

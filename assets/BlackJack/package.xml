@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="wwvqk0he" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="x4570" name="WndBlackJack.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="BlackJack"/>
+</packageDescription>

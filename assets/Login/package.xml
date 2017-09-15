@@ -2,7 +2,7 @@
 <packageDescription id="nmga775v" jpegQuality="80" compressPNG="true">
   <resources>
     <component id="bky40" name="WndLogin.xml" path="/" exported="true"/>
-    <component id="kmjs1" name="BtnLogin.xml" path="/Componets/"/>
+    <component id="kmjs1" name="BtnLogin.xml" path="/Components/"/>
     <image id="htrj2" name="Background.PNG" path="/Images/"/>
   </resources>
   <publish name="Login"/>

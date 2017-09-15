@@ -2,6 +2,8 @@
 <packageDescription id="8dro2xf8" jpegQuality="80" compressPNG="true">
   <resources>
     <component id="rwsj0" name="WndDanmaku.xml" path="/" exported="true"/>
+    <component id="svai1" name="SwichButton.xml" path="/Components/"/>
+    <component id="iclx2" name="DanmakuItem.xml" path="/Components/" exported="true"/>
   </resources>
   <publish name="Danmaku"/>
 </packageDescription>

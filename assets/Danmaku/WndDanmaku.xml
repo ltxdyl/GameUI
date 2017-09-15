@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280" opaque="false">
-  <displayList/>
+  <displayList>
+    <component id="n0_svai" name="btnSwich" src="svai1" xy="30,26" size="100,35">
+      <Button title="测试" titleFontSize="18"/>
+    </component>
+  </displayList>
 </component>
