@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="k80e5clr" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="gp1o1g" name="Club_1.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1h" name="Club_10.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1i" name="Club_11.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1j" name="Club_12.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1k" name="Club_13.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1l" name="Club_2.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1m" name="Club_3.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1n" name="Club_4.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1o" name="Club_5.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1p" name="Club_6.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1q" name="Club_7.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1r" name="Club_8.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1s" name="Club_9.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1t" name="Diamond_1.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1u" name="Diamond_10.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1v" name="Diamond_11.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1w" name="Diamond_12.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1x" name="Diamond_13.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1y" name="Diamond_2.png" path="/Cards/" exported="true"/>
+    <image id="gp1o1z" name="Diamond_3.png" path="/Cards/" exported="true"/>
+    <image id="gp1o20" name="Diamond_4.png" path="/Cards/" exported="true"/>
+    <image id="gp1o21" name="Diamond_5.png" path="/Cards/" exported="true"/>
+    <image id="gp1o22" name="Diamond_6.png" path="/Cards/" exported="true"/>
+    <image id="gp1o23" name="Diamond_7.png" path="/Cards/" exported="true"/>
+    <image id="gp1o24" name="Diamond_8.png" path="/Cards/" exported="true"/>
+    <image id="gp1o25" name="Diamond_9.png" path="/Cards/" exported="true"/>
+    <image id="gp1o26" name="Heart_1.png" path="/Cards/" exported="true"/>
+    <image id="gp1o27" name="Heart_10.png" path="/Cards/" exported="true"/>
+    <image id="gp1o28" name="Heart_11.png" path="/Cards/" exported="true"/>
+    <image id="gp1o29" name="Heart_12.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2a" name="Heart_13.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2b" name="Heart_2.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2c" name="Heart_3.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2d" name="Heart_4.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2e" name="Heart_5.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2f" name="Heart_6.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2g" name="Heart_7.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2h" name="Heart_8.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2i" name="Heart_9.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2j" name="Spade_1.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2k" name="Spade_10.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2l" name="Spade_11.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2m" name="Spade_12.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2n" name="Spade_13.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2o" name="Spade_2.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2p" name="Spade_3.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2q" name="Spade_4.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2r" name="Spade_5.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2s" name="Spade_6.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2t" name="Spade_7.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2u" name="Spade_8.png" path="/Cards/" exported="true"/>
+    <image id="gp1o2v" name="Spade_9.png" path="/Cards/" exported="true"/>
+  </resources>
+  <publish name="Icon"/>
+</packageDescription>

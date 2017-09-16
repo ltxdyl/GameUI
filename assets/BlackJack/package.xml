@@ -2,6 +2,7 @@
 <packageDescription id="wwvqk0he" jpegQuality="80" compressPNG="true">
   <resources>
     <component id="x4570" name="WndBlackJack.xml" path="/" exported="true"/>
+    <component id="gp1o1" name="CardButton.xml" path="/Components/" exported="true"/>
   </resources>
   <publish name="BlackJack"/>
 </packageDescription>
