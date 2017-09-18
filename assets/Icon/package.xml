@@ -53,6 +53,7 @@
     <image id="gp1o2t" name="Spade_7.png" path="/Cards/" exported="true"/>
     <image id="gp1o2u" name="Spade_8.png" path="/Cards/" exported="true"/>
     <image id="gp1o2v" name="Spade_9.png" path="/Cards/" exported="true"/>
+    <image id="dvtz2w" name="Transparent.png" path="/Common/" exported="true"/>
   </resources>
   <publish name="Icon"/>
 </packageDescription>

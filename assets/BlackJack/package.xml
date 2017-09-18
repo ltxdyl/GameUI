@@ -3,6 +3,9 @@
   <resources>
     <component id="x4570" name="WndBlackJack.xml" path="/" exported="true"/>
     <component id="gp1o1" name="CardButton.xml" path="/Components/" exported="true"/>
+    <component id="di722" name="PokerPlayer.xml" path="/Components/" exported="true"/>
+    <image id="di723" name="blueButton.png" path="/Images/" scale="9grid" scale9grid="21,16,42,32"/>
+    <component id="di724" name="RefreshButton.xml" path="/Components/"/>
   </resources>
   <publish name="BlackJack"/>
 </packageDescription>

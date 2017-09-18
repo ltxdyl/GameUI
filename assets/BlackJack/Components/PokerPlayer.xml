@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,200">
+  <displayList>
+    <component id="n0_di72" name="card0" src="gp1o1" xy="32,123"/>
+    <component id="n1_di72" name="card1" src="gp1o1" xy="57,123"/>
+    <component id="n2_di72" name="card2" src="gp1o1" xy="82,123"/>
+    <component id="n3_di72" name="card3" src="gp1o1" xy="107,123"/>
+    <component id="n4_di72" name="card4" src="gp1o1" xy="132,123"/>
+  </displayList>
+</component>
