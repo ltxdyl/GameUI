@@ -1,7 +1,7 @@
 {
 	"codeGeneration":{
 		"classNamePrefix":"UI",
-		"codePath":"D:\\Laya\\Code\\GameClient\\src\\UI",
+		"codePath":"/Users/linz/Desktop/Code/GameClient/src/UI",
 		"codeType":"TS",
 		"getMemberByName":true,
 		"ignoreNoname":true,
@@ -10,5 +10,5 @@
 	},
 	"fileExtension":"fui",
 	"packageCount":2,
-	"path":"D:\\Laya\\Code\\GameClient\\bin\\res\\ui"
+	"path":"/Users/linz/Desktop/Code/GameClient/bin/res/ui"
 }

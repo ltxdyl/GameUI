@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280">
   <displayList>
+    <text id="n5_dvtz" name="txtCountdown" xy="300,41" size="148,50" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="倒计时"/>
     <component id="n0_x457" name="btnTest" src="kv0s8" pkg="ti8p7cqz" xy="641,41"/>
     <component id="n3_di72" name="btnRefresh" src="di724" xy="58,41" size="124,76">
       <Button title="刷新"/>
     </component>
-    <component id="n1_di72" name="player0" src="di722" xy="263,1016"/>
-    <component id="n4_di72" name="player1" src="di722" xy="493,637"/>
-    <text id="n5_dvtz" name="txtCountdown" xy="300,41" size="148,50" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="倒计时"/>
+    <component id="n1_di72" name="player0" src="di722" xy="263,1016" group="n9_vp8h"/>
+    <component id="n4_di72" name="player1" src="di722" xy="493,637" group="n9_vp8h"/>
+    <component id="n6_vp8h" name="player2" src="di722" xy="498,277" group="n9_vp8h"/>
+    <component id="n7_vp8h" name="player3" src="di722" xy="56,270" group="n9_vp8h"/>
+    <component id="n8_vp8h" name="player4" src="di722" xy="60,632" group="n9_vp8h"/>
+    <group id="n9_vp8h" name="player" xy="56,270" size="642,946"/>
   </displayList>
 </component>
