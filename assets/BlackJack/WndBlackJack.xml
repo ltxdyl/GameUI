@@ -2,13 +2,14 @@
 <component size="720,1280">
   <controller name="ctrlBottomBtns" alias="底部按钮控制" pages="0,下注,1,打牌" selected="0"/>
   <displayList>
+    <graph id="n27_h1ey" name="background" xy="0,0" size="720,1280" type="rect" lineSize="0" lineColor="#ff003300" fillColor="#ff006600"/>
     <text id="n5_dvtz" name="txtCountdown" xy="286,41" size="148,50" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="倒计时"/>
     <component id="n1_di72" name="player0" src="di722" xy="260,960" group="n9_vp8h"/>
     <component id="n4_di72" name="player1" src="di722" xy="480,710" group="n9_vp8h"/>
     <component id="n6_vp8h" name="player2" src="di722" xy="480,360" group="n9_vp8h"/>
     <component id="n7_vp8h" name="player3" src="di722" xy="40,360" group="n9_vp8h"/>
     <component id="n8_vp8h" name="player4" src="di722" xy="40,710" group="n9_vp8h"/>
-    <group id="n9_vp8h" name="player" xy="40,360" size="640,800" collapsed="true"/>
+    <group id="n9_vp8h" name="player" xy="40,360" size="640,800"/>
     <component id="n3_di72" name="btnDouble" src="di724" xy="52,1204" size="124,76" group="n13_vp8h">
       <Button title="双倍"/>
     </component>
@@ -42,7 +43,7 @@
     <component id="n25_vp8h" name="btnBetting" src="di724" xy="10,1204" size="100,76" group="n24_vp8h">
       <Button title="下注"/>
     </component>
-    <group id="n24_vp8h" name="BettingBtnGroup" xy="10,1204" size="700,76" advanced="true">
+    <group id="n24_vp8h" name="BettingBtnGroup" xy="10,1204" size="700,76" advanced="true" collapsed="true">
       <gearDisplay controller="ctrlBottomBtns" pages="0"/>
     </group>
   </displayList>
