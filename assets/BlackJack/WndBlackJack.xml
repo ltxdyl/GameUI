@@ -9,7 +9,7 @@
     <component id="n6_vp8h" name="player2" src="di722" xy="480,360" group="n9_vp8h"/>
     <component id="n7_vp8h" name="player3" src="di722" xy="40,360" group="n9_vp8h"/>
     <component id="n8_vp8h" name="player4" src="di722" xy="40,710" group="n9_vp8h"/>
-    <group id="n9_vp8h" name="player" xy="40,360" size="640,800"/>
+    <group id="n9_vp8h" name="player" xy="40,360" size="640,800" collapsed="true"/>
     <component id="n3_di72" name="btnDouble" src="di724" xy="52,1204" size="124,76" group="n13_vp8h">
       <Button title="双倍"/>
     </component>

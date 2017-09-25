@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="200,200">
   <controller name="ctrlSitDir" alias="座位方向" pages="0,左,1,右" selected="0"/>
+  <controller name="ctrlState" alias="状态控制" pages="0,无人,1,有人" selected="0"/>
   <displayList>
     <component id="n0_di72" name="card0" src="gp1o1" xy="32,123"/>
     <component id="n1_di72" name="card1" src="gp1o1" xy="57,123"/>
     <component id="n2_di72" name="card2" src="gp1o1" xy="82,123"/>
     <component id="n3_di72" name="card3" src="gp1o1" xy="107,123"/>
     <component id="n4_di72" name="card4" src="gp1o1" xy="132,123"/>
-    <text id="n5_vp8h" name="txtChips" xy="111,14" size="59,32" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text="筹码">
+    <text id="n5_vp8h" name="txtChips" xy="111,14" size="59,35" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text="筹码">
+      <gearDisplay controller="ctrlState" pages="1"/>
       <gearXY controller="ctrlSitDir" pages="1" values="32,14" default="111,14"/>
     </text>
-    <text id="n6_vp8h" name="txtPoints" xy="111,72" size="59,32" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text="点数">
+    <text id="n6_vp8h" name="txtPoints" xy="111,72" size="59,35" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text="点数">
+      <gearDisplay controller="ctrlState" pages="1"/>
       <gearXY controller="ctrlSitDir" pages="1" values="32,72" default="111,72"/>
     </text>
-    <text id="n7_vp8h" name="txtName" xy="32,14" size="59,32" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text="名字">
+    <text id="n7_vp8h" name="txtName" xy="32,14" size="59,35" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text="名字">
+      <gearDisplay controller="ctrlState" pages="1"/>
       <gearXY controller="ctrlSitDir" pages="1" values="111,14" default="32,14"/>
     </text>
   </displayList>
